@@ -6,6 +6,13 @@ ADILET ZHAKYPOV COM19
 
 
 
+Website about all Universities in our country
+
+
+
+
+
+
 
 
 
