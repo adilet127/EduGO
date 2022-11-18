@@ -1,0 +1,81 @@
+{
+  "universities": [
+    {
+      "name": "jufdifjd",
+      "rank": "932",
+      "totalFaculty": "898",
+      "tuitionStart": "890",
+      "status": "hjihe",
+      "aveForGrant": "888",
+      "grantCount": "0909",
+      "link": "hdhe",
+      "id": 1
+    },
+    {
+      "name": "hjfsdf",
+      "rank": "8987",
+      "totalFaculty": "7878",
+      "tuitionStart": "78789",
+      "status": "hfydj",
+      "aveForGrant": "190",
+      "grantCount": "787",
+      "link": "https foll",
+      "id": 2
+    },
+    {
+      "name": "jhfg",
+      "rank": "7879",
+      "totalFaculty": "787997",
+      "tuitionStart": "9090",
+      "status": "jojo",
+      "aveForGrant": "800",
+      "grantCount": "80786",
+      "link": "https",
+      "id": 3
+    },
+    {
+      "name": "jhfg",
+      "rank": "7879",
+      "totalFaculty": "787997",
+      "tuitionStart": "9090",
+      "status": "jojo",
+      "aveForGrant": "800",
+      "grantCount": "80786",
+      "link": "https",
+      "id": 4
+    },
+    {
+      "name": "Ala-too",
+      "rank": "10",
+      "totalFaculty": "15",
+      "tuitionStart": "50000",
+      "status": "Privat",
+      "aveForGrant": "215",
+      "grantCount": "100",
+      "link": "https",
+      "id": 5
+    },
+    {
+      "name": "Ala-too mui",
+      "rank": "10",
+      "totalFaculty": "15",
+      "tuitionStart": "50000",
+      "status": "Privat",
+      "aveForGrant": "215",
+      "grantCount": "100",
+      "link": "https",
+      "id": 6
+    },
+    {
+      "name": "Ala-too mui",
+      "rank": "10",
+      "totalFaculty": "15",
+      "tuitionStart": "50000",
+      "status": "Privat",
+      "aveForGrant": "215",
+      "grantCount": "100",
+      "link": "https",
+      "id": 7
+    }
+  ]
+}
